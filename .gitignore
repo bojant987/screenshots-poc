@@ -4,5 +4,5 @@ dist
 .directory
 .DS_Store
 coverage.reg
-__screenshots__report__
+__screenshots-report__
 .reg
