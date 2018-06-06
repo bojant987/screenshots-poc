@@ -12,7 +12,7 @@
     "start": "npm run build && node server.js",
     "storybook": "start-storybook -p 6006 -s ./assets/img",
     "build-storybook": "build-storybook",
-    "screenshot": "storybook-chrome-screenshot -p 9001 -c .storybook --debug"
+    "screenshot": "storybook-chrome-screenshot -p 9001 -c .storybook"
   },
   "lint-staged": {
     "*.{js,jsx}": [
