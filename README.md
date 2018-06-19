@@ -1,5 +1,5 @@
 # Screenshots POC
 
-Visual regression testing with react, storybook, storybook-chrome-screenshot and reg-suit
+Visual regression testing with react, storybook and loki
 
 
